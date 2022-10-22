@@ -1,2 +1,4 @@
 # web-games
-Fun web games i made
+Fun web games I made
+
+[Equation Finding Game](https://larvance.github.io/web-games/math/index.html)
